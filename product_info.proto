@@ -1,5 +1,7 @@
 syntax = "proto3";
 
+option go_package = "github.com/Sujin1135/study-grpc-idl/blob/main";
+
 package ecommerce;
 
 service ProductInfo {
